@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 ## wanna donate?
 
 if you like what i made, consider supporting me — any donation helps and means a lot!
-- litecoin: bc1qkhtl7m6vggyhdynw34nda28eytlv9jfmqdkpws
+- bitcoin: bc1qkhtl7m6vggyhdynw34nda28eytlv9jfmqdkpws
 - ethereum: 0xd1350B30D035D82D77Ac5619be0e93F66848EF7B
 - monero: 4AJvEWRpUAjEyA8ML9ZkEHeQYFscioRXS8EVk5HMKH63dJj3QpfpQr5YyTwNHvDfsXVpns486TBAvMsoiTy1BGBJER1KCvp
 
