@@ -45,5 +45,5 @@ if you like what i made, consider supporting me — any donation helps and means
 - litecoin: LU6abVwrDRKNc4aLi2gPUeKF6hTYiwVBfG
 - monero: 4AJvEWRpUAjEyA8ML9ZkEHeQYFscioRXS8EVk5HMKH63dJj3QpfpQr5YyTwNHvDfsXVpns486TBAvMsoiTy1BGBJER1KCvp
 
-- other ways? just hit me up on discord — it’s on my website: https//lain.ovh
+- other ways? just hit me up on discord — it’s on my [website](https://lain.ovh)
 thanks a ton ❤️
