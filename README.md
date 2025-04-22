@@ -38,5 +38,5 @@ if you like what i made, consider supporting me — any donation helps and means
 - ethereum: 0xd1350B30D035D82D77Ac5619be0e93F66848EF7B
 - monero: 4AJvEWRpUAjEyA8ML9ZkEHeQYFscioRXS8EVk5HMKH63dJj3QpfpQr5YyTwNHvDfsXVpns486TBAvMsoiTy1BGBJER1KCvp
 
-- other ways? just hit me up on discord — it’s on my site: **https//lain.ovh**
+- other ways? just hit me up on discord — it’s on my site: [lain.ovh](https//lain.ovh/)
 thanks a ton ❤️
