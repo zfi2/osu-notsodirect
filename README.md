@@ -30,3 +30,13 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 
 3. **summary**
    - after doing these things, you should be set and ready to go! now just search for a map, click on the download button, and the map should auto-import itself to osu!
+
+## wanna donate?
+
+if you like what i made, consider supporting me — any donation helps and means a lot!
+- litecoin: bc1qkhtl7m6vggyhdynw34nda28eytlv9jfmqdkpws
+- ethereum: 0xd1350B30D035D82D77Ac5619be0e93F66848EF7B
+- monero: 4AJvEWRpUAjEyA8ML9ZkEHeQYFscioRXS8EVk5HMKH63dJj3QpfpQr5YyTwNHvDfsXVpns486TBAvMsoiTy1BGBJER1KCvp
+
+- other ways? just hit me up on discord — it’s on my site: **https//lain.ovh**
+thanks a ton ❤️
