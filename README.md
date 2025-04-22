@@ -21,8 +21,8 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 
 1. **important notes:**
    - ***!!! THE GAME MUST RUN IN BORDERLESS FULLSCREEN/BORDERLESS WINDOW !!!*** if it's not, it will minimize your game, and show the menu on your desktop.
-   - make sure you have **.NET 9.0 Windows Desktop Runtime** installed. [download link](https://builds.dotnet.microsoft.com/dotnet/windowsdesktop/9.0.4/windowsdesktop-runtime-9.0.4-win-x64.exe).
-   - if you wanna compile it yourself, make sure you have the **.NET 9.0 Windows SDK** installed. [download link](https://builds.dotnet.microsoft.com/dotnet/sdk/9.0.203/dotnet-sdk-9.0.203-win-x64.exe)
+   - make sure you have **.NET 9.0 Windows Desktop Runtime** installed. [download link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
+   - if you wanna compile it yourself, make sure you have the **.NET 9.0 Windows SDK** installed. [download link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
 2. **where to download and keybinds**
    - you can download and run the program from the releases page on github, or compile it yourself.
@@ -45,5 +45,5 @@ if you like what i made, consider supporting me — any donation helps and means
 - litecoin: LU6abVwrDRKNc4aLi2gPUeKF6hTYiwVBfG
 - monero: 4AJvEWRpUAjEyA8ML9ZkEHeQYFscioRXS8EVk5HMKH63dJj3QpfpQr5YyTwNHvDfsXVpns486TBAvMsoiTy1BGBJER1KCvp
 
-- other ways? just hit me up on discord — it’s on my site: [lain.ovh](https//lain.ovh/)
+- other ways? just hit me up on discord — it’s on my website: https//lain.ovh
 thanks a ton ❤️
