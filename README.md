@@ -5,6 +5,11 @@
 osu!notsodirect is a hacky, but functional local replacement for osu!direct.
 it downloads beatmaps from public mirrors and launches them through osu!, effectively auto-extracting them - just like the real osu!direct... but for free :3
 
+
+https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
+
+
+
 ## 💡 how it works
 
 - downloads `.osz` files from public mirrors (like `catboy.best` or `nerinyan.moe`)
