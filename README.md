@@ -40,10 +40,9 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 ## 💸 wanna donate?
 
 if you like what i made, consider supporting me — any donation helps and means a lot!
-- bitcoin: bc1qkxqq47y2ple7rhjgyagle8j922xcwurnqd2rpe
-- ethereum: 0x2c5152769dbbB21681D9c2B95C5Fd78dbB21b456
-- litecoin: ltc1q73r69pm4c4flj7ya7xgnuzmtk7sp2s6ny63dq6
-- monero: 89oZ2E4MH1cBCF7y3Tz9ZBj96eGWcWjmFPY7Gvtb1aV9GYSB3ac89EGhuyRa49po3EPbgyng9o7wRj6kPcsXJ5stVXAAThw
+- bitcoin: bc1qzp5ccgj0lkxslhwpys7wa8a94pteqluu7wm8k3
+- ethereum: 0xEc4114E7396D6fa1bf71ABb389718F0399fE2c63
+- litecoin: LZ9VFYwZgfzr928c5cM9y9S16REyjkkoop
 
 - other ways? just hit me up on discord — it’s on my [website](https://lain.ovh)
 thanks a ton ❤️
