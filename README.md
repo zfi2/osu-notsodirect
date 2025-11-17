@@ -35,14 +35,3 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 - borderless fullscreen introduces input delay, unfortunately, there's not much I can do to fix this, it's a stupid Windows issue. [Forced DWM buffering](https://osu.ppy.sh/community/forums/topics/774452?n=3)
 - however, you can minimize the input lag by disabling Fullscreen Optimizations for the osu!.exe file, like this:
 ![XsFthNF3Q0](https://github.com/user-attachments/assets/66c363eb-688f-49ea-8695-ca28a2f1545e)
-
-
-## 💸 wanna donate?
-
-if you like what i made, consider supporting me — any donation helps and means a lot!
-- bitcoin: bc1qzp5ccgj0lkxslhwpys7wa8a94pteqluu7wm8k3
-- ethereum: 0xEc4114E7396D6fa1bf71ABb389718F0399fE2c63
-- litecoin: LZ9VFYwZgfzr928c5cM9y9S16REyjkkoop
-
-- other ways? just hit me up on discord — it’s on my [website](https://lain.ovh)
-thanks a ton ❤️
