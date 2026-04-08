@@ -10,14 +10,14 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 
 
 
-## 💡 how it works
+## how it works
 
 - downloads `.osz` files from public mirrors (like `catboy.best` or `nerinyan.moe`)
 - auto-imports them into osu!
 - requires *zero* changes to the game itself (no ban risk, no funny business)
 - it's also like... *blazingly fast*
 
-## 🧱 setup and prerequisites
+## setup and prerequisites
 
 1. **important notes:**
    - ***!!! THE GAME MUST RUN IN BORDERLESS FULLSCREEN/BORDERLESS WINDOW !!!*** if it's not, it will minimize your game, and show the menu on your desktop.
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/df54407d-70d5-4ba2-bc3c-2a432a633017
 3. **summary**
    - after doing these things, you should be set and ready to go! now just search for a map, click on the download button, and the map should auto-import itself to osu!
 
-## ⚠️ possible issues
+## possible issues
 - borderless fullscreen introduces input delay, unfortunately, there's not much I can do to fix this, it's a stupid Windows issue. [Forced DWM buffering](https://osu.ppy.sh/community/forums/topics/774452?n=3)
 - however, you can minimize the input lag by disabling Fullscreen Optimizations for the osu!.exe file, like this:
 ![XsFthNF3Q0](https://github.com/user-attachments/assets/66c363eb-688f-49ea-8695-ca28a2f1545e)
